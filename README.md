@@ -1,16 +1,7 @@
-# flutter_application_1
+# Alvionej Resna Lawrend Pandiangan | 2409116073
+## Aplikasi Penyewaan Gedung
 
-A new Flutter project.
+## 1. Deskripsi Aplkasi
+Aplikasi Penyewaan Gedung bernama Central Venue adalah aplikasi berbasis Flutter yang digunakan untuk mencatat dan mengelola data penyewaan gedung. Di dalam aplikasi ini, user bisa memasukkan nama penyewa, tanggal penyewaan, serta kegiatan acara, kemudian menampilkan daftar penyewaan yang dapat diedit dan dihapus secara real-time menggunakan GetX.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 2. Fitur Aplikasi
