@@ -57,6 +57,7 @@ Aplikasi Penyewaan Gedung bernama Central Venue adalah aplikasi berbasis Flutter
    <img width="253" height="35" alt="image" src="https://github.com/user-attachments/assets/4b33a30e-6cd5-4ed0-a227-b9a94973b8fa" />
    
 6. Column
+
    <img width="138" height="37" alt="image" src="https://github.com/user-attachments/assets/752a9043-8cde-44c0-a4e9-12f6dbc668e0" />
    
 7. Container
@@ -67,7 +68,7 @@ Aplikasi Penyewaan Gedung bernama Central Venue adalah aplikasi berbasis Flutter
    
     <img width="207" height="37" alt="image" src="https://github.com/user-attachments/assets/082b0f73-ef45-4487-a5ee-25bac968c4f8" />
     
-9. SizedBox
+9 SizedBox
 
     <img width="146" height="26" alt="image" src="https://github.com/user-attachments/assets/4b0a8bb1-55da-46d6-9a2a-ff74160965f2" />
     
@@ -82,6 +83,7 @@ Aplikasi Penyewaan Gedung bernama Central Venue adalah aplikasi berbasis Flutter
 ## 5.Package yang digunakan
 
 <img width="166" height="86" alt="image" src="https://github.com/user-attachments/assets/845b4a2d-b949-4ab0-abaf-76cdbbc4f1af" />
+
 
 
 
