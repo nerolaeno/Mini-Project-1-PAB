@@ -1,7 +1,7 @@
 # Alvionej Resna Lawrend Pandiangan | 2409116073
 ## Aplikasi Penyewaan Gedung
 
-## 1. Deskripsi Aplkasi
+## 1. Deskripsi Aplikasi
 Aplikasi Penyewaan Gedung bernama Central Venue adalah aplikasi berbasis Flutter yang digunakan untuk mencatat dan mengelola data penyewaan gedung. Di dalam aplikasi ini, user bisa memasukkan nama penyewa, tanggal penyewaan, serta kegiatan acara, kemudian menampilkan daftar penyewaan yang dapat diedit dan dihapus secara real-time menggunakan GetX.
 
 ## 2. Fitur Aplikasi
@@ -83,6 +83,7 @@ Aplikasi Penyewaan Gedung bernama Central Venue adalah aplikasi berbasis Flutter
 ## 5.Package yang digunakan
 
 <img width="166" height="86" alt="image" src="https://github.com/user-attachments/assets/845b4a2d-b949-4ab0-abaf-76cdbbc4f1af" />
+
 
 
 
