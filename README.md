@@ -81,9 +81,10 @@ Aplikasi Penyewaan Gedung bernama Central Venue adalah aplikasi berbasis Flutter
     
     <img width="274" height="37" alt="image" src="https://github.com/user-attachments/assets/f7f136a0-90f5-41ff-88cb-b7f184cc6ff6" />
 
-## 5.Package yang digunakan
+## 5. Package yang digunakan
 
 <img width="166" height="86" alt="image" src="https://github.com/user-attachments/assets/845b4a2d-b949-4ab0-abaf-76cdbbc4f1af" />
+
 
 
 
